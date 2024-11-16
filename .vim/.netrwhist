@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/w/wenbozhu/cs1010/exercises/ex00-mendax1234'
+let g:netrw_dirhist_4='/home/w/wenbozhu'
+let g:netrw_dirhist_3='/home/w/wenbozhu/cs1010/lectures/week3'
+let g:netrw_dirhist_2='/home/w/wenbozhu/cs1010/lectures'
+let g:netrw_dirhist_1='/home/w/wenbozhu/cs1010/lectures/week3'
+let g:netrw_dirhist_0='/home/w/wenbozhu/cs1010/lectures'
+let g:netrw_dirhist_9='/home/w/wenbozhu/cs1010'
+let g:netrw_dirhist_8='/home/w/wenbozhu'
+let g:netrw_dirhist_7='/home/w/wenbozhu/cs1010'
+let g:netrw_dirhist_6='/home/w/wenbozhu'
